@@ -51,7 +51,7 @@ for skill in favorite_skills:
 
 ## About me
 
-I'm a programmer in the day and a guitar player in the night. I started both disciplines in Cuba, one in the halls of University of Havana, where I knew the 2 best professor that I ever had, Alejandro Piad and Alfredo Somoza, and other in the streets of Havana where I knew my brother from other mother.
+I'm a programmer in the day and a guitar player in the night. I started both disciplines in Cuba, one in the halls of University of Havana, where I knew the 2 best professor that I ever had, Alejandro Piad and Alfredo Somoza, and other in the streets of Havana where I knew my brothers from other mothers.
 
 I came to the United States to finish my degree, to seek freedom and build my future on this land.
 
