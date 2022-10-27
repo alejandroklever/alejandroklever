@@ -34,7 +34,7 @@ Always learning everything i can about:
 
 from alejandroklever import favorite_skills
 
-for skill in skills:
+for skill in favorite_skills:
     print(skill.to_nice_format())
 ```
 
