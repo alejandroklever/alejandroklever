@@ -53,7 +53,7 @@ for skill in favorite_skills:
 
 I'm a programmer in the day and a guitar player in the night. I started both disciplines in Cuba, one in the halls of University of Havana, where I knew the 2 best professor that I ever had, Alejandro Piad and Alfredo Somoza, and other in the streets of Havana where I knew my brothers from other mothers.
 
-I came to the United States to finish my degree, to seek freedom and build my future on this land.
+I came to the United States to continue my studies, to seek freedom and build my future on this land.
 
 In my free time I’m mostly learning about new technologies and frameworks, trying to solve challenging programing problems, creating personal projects or contributing with others, and recording songs in my room.
 
