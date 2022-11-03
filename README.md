@@ -4,7 +4,7 @@ I'm Alejandro Klever Clemente, a Full Stack Developer ðŸ˜Ž, heavy metal player ð
 
 ---
 
-![Twitter Follow](https://img.shields.io/twitter/follow/aklever4197?label=Follow%20on%20Twitter&color=red&style=flat) ![GitHub followers](https://img.shields.io/github/followers/alejandroklever?label=Follow%20on%20Github&style=flat)
+![Twitter Follow](https://img.shields.io/twitter/follow/aklever4197?label=Follow%20on%20Twitter&color=blue&style=flat&logo=twitter) ![GitHub followers](https://img.shields.io/github/followers/alejandroklever?label=Follow%20on%20Github&style=flat&color=grey&logo=github)
 
 ---
 
