@@ -66,7 +66,7 @@ In my free time I’m mostly learning about new technologies and frameworks, try
 
 - ❤️ I really stand for the free speech, everyone should have the chance to express themselves and carry on with the consequences of their words, and change their mind if they figure out that they were wrong.
 
-- ❤️ Respect is not acceptance, we can disagree but collaborate together, even have a friendship… except if you think that PHP and JavaScript are the best programming languages, that’s immediately a war declaration, with the only exception of my fiancée 😂.
+- ❤️ Respect is not acceptance, we can disagree but collaborate together, even have a friendship… except if you think that PHP and JavaScript are the best programming languages, that’s immediately a war declaration, with the only exception of my wife 😂.
 
 - ❤️ Forgiveness is hard, but cleans our souls.
 
