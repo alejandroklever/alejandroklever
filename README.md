@@ -4,7 +4,6 @@ I'm Alejandro Klever, a full stack developer 😎, heavy metal player 🎸 and f
 
 ---
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/aklever4197?label=Follow%20on%20Twitter&color=blue&style=flat&logo=twitter)](https://twitter.com/aklever4197)
 [![GitHub followers](https://img.shields.io/github/followers/alejandroklever?label=Follow%20on%20Github&style=flat&color=lightgray&logo=github)](https://github.com/alejandroklever)
 
 ---
@@ -52,7 +51,7 @@ In my free time, I mostly learn about new technologies and frameworks, try to so
 
 - ❤️ Nothing is free and it is our duty to know when to make the sacrifices to move forward in our search for happiness.
 
-❤️ I really stand for free speech. Everyone should have the chance to express themselves, consider the consequences of their words, and change their mind if they realize that they were wrong.
+- ❤️ I really stand for free speech. Everyone should have the chance to express themselves, consider the consequences of their words, and change their mind if they realize that they were wrong.
 
 - ❤️ Respect is not acceptance, we can disagree but collaborate, even have a friendship.
 
