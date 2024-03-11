@@ -9,29 +9,17 @@ I'm Alejandro Klever, a full stack developer 😎, heavy metal player 🎸 and f
 
 ---
 
-## Main interests
-
-Always learning everything i can about:
-
-- Machine Learning
-- Artificial Intelligence
-- Natural Language Processing
-- Web Development (Front-End and Back-End)
-- Mobile Development
-- Game Development
-- Computer Graphics
-
 ## Work, Projects and Skills
 
-💼 I have worked as a web and mobile developer using various technologies, remotely and maintaining good communication with the work team.
+💼 I have worked as a web and mobile developer using various technologies remotely, maintaining good communication with the work team.
 
-🛠️ Currently working on the major release of `PyJapt`, my parsing tool written fully in Python 🐍.
+🛠️ Currently working on the major release of `PyJapt`, my parsing tool written entirely in Python 🐍.
 
 ---
 
 ```python
 # I adapt very well to every technology,
-# but I really enjoy working with...
+# but I enjoy working with...
 
 from alejandroklever import favorite_skills
 
@@ -52,22 +40,22 @@ for skill in favorite_skills:
 
 ## About me
 
-I'm a programmer in the day and a guitar player in the night. I started both disciplines in Cuba, one in the halls of University of Havana, where I knew the 2 best professor that I ever had, Alejandro Piad and Alfredo Somoza, and other in the streets of Havana where I knew my brothers from other mothers.
+I'm a programmer by day and a guitar player by night. I started both disciplines in Cuba, one in the halls of the University of Havana, where I knew the two best professors I ever had, Alejandro Piad and Alfredo Somoza, and the other in the streets of Havana, where I learned my brothers from different mothers.
 
-I came to the United States to continue my studies, to seek freedom and build my future on this land.
+I came to the United States to continue my studies, seek freedom, and build my future on this land.
 
-In my free time I’m mostly learning about new technologies and frameworks, trying to solve challenging programing problems, creating personal projects or contributing with others, and recording songs in my room.
+In my free time, I mostly learn about new technologies and frameworks, try to solve challenging programming problems, create personal projects or contribute to others, and record songs in my room.
 
 ## Believes and thoughts
 
-- ❤️ I really believe in good, I think that if you have the necessary conditions to help someone, then being good is a duty.
+- ❤️ I believe in goodness. If you have the necessary conditions to help someone, then being good is a duty.
 
 - ❤️ Nothing is free and it is our duty to know when to make the sacrifices to move forward in our search for happiness.
 
-- ❤️ I really stand for the free speech, everyone should have the chance to express themselves and carry on with the consequences of their words, and change their mind if they figure out that they were wrong.
+❤️ I really stand for free speech. Everyone should have the chance to express themselves, consider the consequences of their words, and change their mind if they realize that they were wrong.
 
-- ❤️ Respect is not acceptance, we can disagree but collaborate together, even have a friendship… except if you think that PHP and JavaScript are the best programming languages, that’s immediately a war declaration, with the only exception of my wife 😂.
+- ❤️ Respect is not acceptance, we can disagree but collaborate, even have a friendship.
 
-- ❤️ Forgiveness is hard, but cleans our souls.
+- ❤️ Forgiveness is hard but it cleans our souls.
 
-- ❤️ I had good mentors that taught me to love what I do. That’s why I love to teach others with the same passion.
+- ❤️ I had good mentors who taught me to love what I do. That’s why I love to teach others with the same passion.
