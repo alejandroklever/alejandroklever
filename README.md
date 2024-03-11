@@ -1,6 +1,6 @@
 # Hi there, everyone 👋
 
-I'm Alejandro Klever, a full stack developer 😎, heavy metal player 🎸 and future computer scientist 🤓.
+I'm Alejandro Klever, a freelance full stack developer.
 
 ## Work, Projects and Skills
 
