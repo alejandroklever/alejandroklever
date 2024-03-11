@@ -2,12 +2,6 @@
 
 I'm Alejandro Klever, a full stack developer 😎, heavy metal player 🎸 and future computer scientist 🤓.
 
----
-
-[![GitHub followers](https://img.shields.io/github/followers/alejandroklever?label=Follow%20on%20Github&style=flat&color=lightgray&logo=github)](https://github.com/alejandroklever)
-
----
-
 ## Work, Projects and Skills
 
 💼 I have worked as a web and mobile developer using various technologies remotely, maintaining good communication with the work team.
