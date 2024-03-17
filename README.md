@@ -1,43 +1,41 @@
 # Hi there, everyone 👋
 
-I'm Alejandro Klever, a freelance full stack developer.
+I'm Alejandro Klever, a freelance full-stack developer with four years of experience working on real-world applications. Comprehensive skills in cross-platform mobile development using Flutter, web development using React and VueJS, and back-end expertise in Python, Django, C#, and ASP. NetCore. Effective in collaborative remote environments, committed to continuous learning and quality work.
 
-## Work, Projects and Skills
+## Tech Stack
 
-💼 I have worked as a web and mobile developer using various technologies remotely, maintaining good communication with the work team.
+| Programming Languages | Frameworks & Libraries     | Database Management | DevOps            |
+|-----------------------|----------------------------|---------------------|-------------------|
+| Python 🐍             | Flutter 📱                  | MySQL 🐬            | Git 🔀            |
+| C# 🔷                 | SwiftUI 🐦                  | PostgreSQL 🐘       | GitHub 🐙         |
+| Swift 🦅              | React ⚛️                     | MongoDB 🍃          | AWS ☁️             |
+| Dart 🎯               | Next.js ➡️                   |                     | Jira 📊           |
+| HTML5 🌐              | VueJS 🟢                    |                     | Confluence 📘     |
+| CSS3 🎨               | Nuxt ♻️                      |                     | Jenkins 🛠        |
+| Javascript 📜         | Django 🎩                   |                     |                   |
+| Typescript 📘         | Django Rest Framework 📡    |                     |                   |
 
-🛠️ Currently working on the major release of `PyJapt`, my parsing tool written entirely in Python 🐍.
+## Work Experience
 
----
+🏦 Pega Support Analyst at TD Bank [Jan 2023 - Jan 2024]
 
-```python
-# I adapt very well to every technology,
-# but I enjoy working with...
+📲 Mobile Developer at EducUp [Jun 2020 - Feb 2023]
 
-from alejandroklever import favorite_skills
+💻 Full-Stack Developer at Blackstone Merchant Services [Oct 2021 - Dec 2022]
 
-for skill in favorite_skills:
-    print(skill.to_nice_format())
-```
+## Projects
 
-```bash
-🐍 Python
-🔒 Django
-⚡ FastAPI
-🧩 TypeScript
-✨ VueJS
-🪄 Flutter (my new crush 😍)
-```
-
----
+🛠️ Currently working on the major release of [PyJapt](https://github.com/alejandroklever/PyJapt), a parser and lexer generator for SLR, LR1, and LALR Grammar written entirely in Python 🐍.
 
 ## About me
 
-I'm a programmer by day and a guitar player by night. I started both disciplines in Cuba, one in the halls of the University of Havana, where I knew the two best professors I ever had, Alejandro Piad and Alfredo Somoza, and the other in the streets of Havana, where I learned my brothers from different mothers.
+My path in software development began with a Computer Science degree at the University of Havana in 2016. There, I studied under excellent professors who instilled in me a great passion for mathematics, programming, and teaching. I had the honor of being a student assistant in my third year of study in Computer Architecture and Operating Systems.
 
-I came to the United States to continue my studies, seek freedom, and build my future on this land.
+Right at the end of my third year of college, I had the opportunity to work as a mobile developer for the startup EducUp. We developed the e-learning app of the same name, which currently has more than 2 million active users.
 
-In my free time, I mostly learn about new technologies and frameworks, try to solve challenging programming problems, create personal projects or contribute to others, and record songs in my room.
+In 2021, I came to the United States in search of new opportunities, freedom, and a place to call home. In this new stage of my life, I had the opportunity to work at TD Bank as a Pega Developer and Analyst. Thus, I obtained a better understanding of working in big tech companies related to finance, which gave me greater discipline when working with several large teams during digital product development.
+
+I am starting a career as a freelancer, and although I don't know what destiny holds for me, I have faith that it will be prosperous.
 
 ## Believes and thoughts
 
