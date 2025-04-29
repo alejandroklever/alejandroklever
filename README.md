@@ -1,41 +1,48 @@
 # Hi there, everyone 👋
 
-I'm Alejandro Klever, a freelance full-stack developer with four years of experience working on real-world applications. Comprehensive skills in cross-platform mobile development using Flutter, web development using React and VueJS, and back-end expertise in Python, Django, C#, and ASP. NetCore. Effective in collaborative remote environments, committed to continuous learning and quality work.
+I'm Alejandro Klever, a Mobile Engineer with over 5 years of experience specializing in cross-platform mobile development and native iOS apps. I have a strong passion for building seamless, high-performance applications, from mobile apps to cloud-connected AR experiences.
+
+Currently, I work on advanced mobile software including applications for the Apple Vision Pro, using Swift, SwiftUI, Flutter, and backend technologies like Django and Laravel. I've developed solutions for healthcare, fintech, and education sectors, always with a focus on performance, scalability, and user experience.
 
 ## Tech Stack
 
-| Programming Languages | Frameworks & Libraries     | Database Management | DevOps            |
-|-----------------------|----------------------------|---------------------|-------------------|
-| Python 🐍             | Flutter 📱                  | MySQL 🐬            | Git 🔀            |
-| C# 🔷                 | SwiftUI 🐦                  | PostgreSQL 🐘       | GitHub 🐙         |
-| Swift 🦅              | React ⚛️                     | MongoDB 🍃          | AWS ☁️             |
-| Dart 🎯               | Next.js ➡️                   |                     | Jira 📊           |
-| HTML5 🌐              | VueJS 🟢                    |                     | Confluence 📘     |
-| CSS3 🎨               | Nuxt ♻️                      |                     | Jenkins 🛠        |
-| Javascript 📜         | Django 🎩                   |                     |                   |
-| Typescript 📘         | Django Rest Framework 📡    |                     |                   |
+| Programming Languages | Frameworks & Libraries     | Database Management | Cloud & DevOps      |
+|-----------------------|-----------------------------|---------------------|---------------------|
+| Swift 🦅               | SwiftUI 🐦                  | PostgreSQL 🐘        | AWS ☁️              |
+| Dart 🎯                | Flutter 📱                  | MySQL 🐬             | Firebase 🔥         |
+| Kotlin 🤖             | RealityKit 🌌               | MongoDB 🍃           | Supabase 🛡️         |
+| Python 🐍              | React ⚛️                    |                     | Git/GitHub 🔀🐙      |
+| Javascript 📜          | Next.js ➡️                  |                     | Jira/Confluence 📚   |
+| Typescript 📘          | Django 🎩                   |                     | Jenkins 🛠          |
+| HTML5 🌐              | Laravel 🛠                  |                     | Xcode, Android Studio |
 
 ## Work Experience
 
-🏦 Pega Support Analyst at TD Bank [Jan 2023 - Jan 2024]
+🏥 **Mobile Engineer** at DAS Labs (2024 - Present)  
+→ Led the development of a real-time surgical tracking app and an Apple Vision Pro app with AR and AI integrations.  
+→ Built cross-platform solutions with Flutter and SwiftUI, leveraging Firebase, OpenAI, and AWS services.
 
-📲 Mobile Developer at EducUp [Jun 2020 - Feb 2023]
+🏦 **Pega Support Analyst** at TD Bank (2023 - 2024)  
+→ Supported critical Pega applications, optimized system performance, and trained teams in bug detection using Splunk.
 
-💻 Full-Stack Developer at Blackstone Merchant Services [Oct 2021 - Dec 2022]
+📚 **Flutter Developer** at Educup (2020 - 2023)  
+→ Developed and transitioned the Educup mobile app from Unity to Flutter, enhancing performance for 1M+ active users.  
+→ Integrated chat (SendBird) and payment systems (PayPal, Stripe).
+
+💳 **Full Stack Developer** at Blackstone Merchant Services (2021 - 2022)  
+→ Modernized platforms with Next.js and Django, ensuring high scalability and reliability.
 
 ## Projects
 
-🛠️ Currently working on the major release of [PyJapt](https://github.com/alejandroklever/PyJapt), a parser and lexer generator for SLR, LR1, and LALR Grammar written entirely in Python 🐍.
+🛠️ Currently working on the major release of [PyJapt](https://github.com/alejandroklever/PyJapt), a Python library for building custom lexers and parsers based on SLR, LR1, and LALR grammars.
 
 ## About me
 
-My path in software development began with a Computer Science degree at the University of Havana in 2016. There, I studied under excellent professors who instilled in me a great passion for mathematics, programming, and teaching. I had the honor of being a student assistant in my third year of study in Computer Architecture and Operating Systems.
+My journey into software development started at the University of Havana, where I was lucky to study under brilliant mentors and became an assistant professor in Computer Architecture and Operating Systems.
 
-Right at the end of my third year of college, I had the opportunity to work as a mobile developer for the startup EducUp. We developed the e-learning app of the same name, which currently has more than 2 million active users.
+After migrating to the United States in 2021, I embraced new opportunities, joining teams like Educup and TD Bank, and diving deeper into AR and AI app development for healthcare. Today, I'm focused on delivering high-impact solutions, constantly learning, and helping others grow along the way.
 
-In 2021, I came to the United States in search of new opportunities, freedom, and a place to call home. In this new stage of my life, I had the opportunity to work at TD Bank as a Pega Developer and Analyst. Thus, I obtained a better understanding of working in big tech companies related to finance, which gave me greater discipline when working with several large teams during digital product development.
-
-I am starting a career as a freelancer, and although I don't know what destiny holds for me, I have faith that it will be prosperous.
+I believe good code is not just functional — it's empathetic to the user and maintainable for future developers.
 
 ## Believes and thoughts
 
